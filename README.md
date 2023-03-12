@@ -1,2 +1,8 @@
 # fork-and-clone
-Just to demonstarte for & clone workflow
+Just to demonstrate for & clone workflow
+
+Add some features:
+- Feat. a
+- Feat. b
+- Feat. c
+
