@@ -6,3 +6,9 @@ Add some features:
 - Feat. b
 - Feat. c
 
+Add some Frate features:
+
+- Feat. a1
+- Feat. b1
+- Feat. c1
+
